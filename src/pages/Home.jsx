@@ -5,7 +5,6 @@ import { useSelector, useDispatch } from 'react-redux';
 import { setCategory, setSortBy } from '../redux/actions/filter';
 import { fetchPizzas } from '../redux/actions/pizzas';
 import { addPizzaToCart } from '../redux/actions/cart';
-import cart from '../redux/reducers/cart';
 
 const categoryNames = ['Meat', 'Vegan', 'Greel', 'Spisy', 'Calsone'];
 const sortItems = [
@@ -20,8 +19,6 @@ function Home() {
   const cartItems = useSelector(({ cart }) => cart.items);
   const isLoaded = useSelector(({ pizzas }) => pizzas.isLoaded);
   const { category, sortBy } = useSelector(({ filters }) => filters);
-
-  console.log(cartItems);
 
   React.useEffect(() => {
     dispatch(fetchPizzas(sortBy, category));
