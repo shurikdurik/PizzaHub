@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/jsonserver-for-pizzahub/static/css/main.825a8470.chunk.css",
+    "main.js": "/jsonserver-for-pizzahub/static/js/main.c2eca705.chunk.js",
+    "main.js.map": "/jsonserver-for-pizzahub/static/js/main.c2eca705.chunk.js.map",
+    "runtime-main.js": "/jsonserver-for-pizzahub/static/js/runtime-main.854bb7a2.js",
+    "runtime-main.js.map": "/jsonserver-for-pizzahub/static/js/runtime-main.854bb7a2.js.map",
+    "static/js/2.6019b117.chunk.js": "/jsonserver-for-pizzahub/static/js/2.6019b117.chunk.js",
+    "static/js/2.6019b117.chunk.js.map": "/jsonserver-for-pizzahub/static/js/2.6019b117.chunk.js.map",
+    "index.html": "/jsonserver-for-pizzahub/index.html",
+    "static/css/main.825a8470.chunk.css.map": "/jsonserver-for-pizzahub/static/css/main.825a8470.chunk.css.map",
+    "static/js/2.6019b117.chunk.js.LICENSE.txt": "/jsonserver-for-pizzahub/static/js/2.6019b117.chunk.js.LICENSE.txt",
+    "static/media/app.scss": "/jsonserver-for-pizzahub/static/media/ProximaNova-Regular.d97f8f32.eot",
+    "static/media/empty-cart.db905d1f.png": "/jsonserver-for-pizzahub/static/media/empty-cart.db905d1f.png",
+    "static/media/pizza-logo.56ac8703.svg": "/jsonserver-for-pizzahub/static/media/pizza-logo.56ac8703.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.854bb7a2.js",
+    "static/js/2.6019b117.chunk.js",
+    "static/css/main.825a8470.chunk.css",
+    "static/js/main.c2eca705.chunk.js"
+  ]
+}
