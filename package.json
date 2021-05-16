@@ -1,6 +1,6 @@
 {
   "name": "react-pizza",
-  "homepage": "https://shurikdurik.github.io/PizzaHub",
+  "homepage": "https://shurikdurik.github.io/jsonserver-for-pizzahub",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
